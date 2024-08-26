@@ -4,7 +4,7 @@ import HeaderContent from '@/components/HeaderContent.vue'
 </script>
 
 <template>
-  <HeaderContent> 321 </HeaderContent>
+  <HeaderContent></HeaderContent>
   <RouterView />
 </template>
 

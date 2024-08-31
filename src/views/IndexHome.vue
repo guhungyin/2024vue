@@ -4,9 +4,7 @@
   </div>
 </template>
 <style>
-body {
-  background-color: #c3f1dd;
-}
+
 h1 {
   position: absolute;
   top: 50%;

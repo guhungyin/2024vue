@@ -8,4 +8,8 @@ import HeaderContent from '@/components/HeaderContent.vue'
   <RouterView />
 </template>
 
-<style scoped></style>
+<style>
+body {
+  background-color: #c3f1dd;
+}
+</style>
